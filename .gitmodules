@@ -1,0 +1,3 @@
+[submodule "URLjammer-front-end"]
+	path = URLjammer-front-end
+	url = https://github.com/JellyHeadMade/URLjammer-front-end.git
